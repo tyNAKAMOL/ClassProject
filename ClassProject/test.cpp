@@ -10,9 +10,6 @@ int isPrime(int X) {
 }
 
 int main() {
-    printf("test comit and push");
-
-
     int x;
     scanf_s("%d", &x);
     if (isPrime(x) == 1)printf("%d is prime", x);
