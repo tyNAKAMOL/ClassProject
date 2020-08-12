@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="code\Yin-Yang.cpp">
+    <ClCompile Include="Yin-Yangcpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
